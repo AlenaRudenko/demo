@@ -1,10 +1,96 @@
 {
-  "posts": [
-    { "id": 1, "text": "Post 1", "likesCount": "1" },
-    { "id": 2, "text": "Post 2", "likesCount": "1" },
-    { "id": 3, "text": "Post 3", "likesCount": "1" }
+   "posts": [
+    {
+      "id": 1,
+      "text": "Post 1",
+      "likesCount": "1"
+    },
+    {
+      "id": 2,
+      "text": "Post 2",
+      "likesCount": "1"
+    },
+    {
+      "id": 3,
+      "text": "Post 3",
+      "likesCount": "1"
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  "users": [
+    {
+      "name": "mrtommus",
+      "id": 23928,
+      "uniqueUrlName": null,
+      "photos": {
+        "small": null,
+        "large": null
+      },
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "restspread",
+      "id": 23927,
+      "uniqueUrlName": null,
+      "photos": {
+        "small": null,
+        "large": null
+      },
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Volodymyr_",
+      "id": 23926,
+      "uniqueUrlName": null,
+      "photos": {
+        "small": null,
+        "large": null
+      },
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "VBagnuk",
+      "id": 23925,
+      "uniqueUrlName": null,
+      "photos": {
+        "small": null,
+        "large": null
+      },
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "bbbvlaaad",
+      "id": 23924,
+      "uniqueUrlName": null,
+      "photos": {
+        "small": null,
+        "large": null
+      },
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "BagnukVlad",
+      "id": 23923,
+      "uniqueUrlName": null,
+      "photos": {
+        "small": null,
+        "large": null
+      },
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "lamstry1",
+      "id": 23922,
+      "uniqueUrlName": null,
+      "photos": {
+        "small": null,
+        "large": null
+      },
+      "status": null,
+      "followed": false
+    }]}
