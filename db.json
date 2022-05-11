@@ -4,9 +4,29 @@
     { "id": 2, "text": "Post 2", "likesCount": "1" },
     { "id": 3, "text": "Post 3", "likesCount": "1" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "users": [
+    {
+      "name": "VanLevsk",
+      "id": 23910,
+      "uniqueUrlName": null,
+      "photos": {
+        "small": null,
+        "large": null
+      },
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Dizzi",
+      "id": 23909,
+      "uniqueUrlName": null,
+      "photos": {
+        "small": null,
+        "large": null
+      },
+      "status": null,
+      "followed": false
+    },
   ],
   "profile": {
     "name": "typicode"
