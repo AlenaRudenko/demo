@@ -56,61 +56,33 @@
   "contacts": {
     "facebook": null,
     "website": null,
-    "vk": null,
-    "twitter": null,
-    "instagram": null,
-    "youtube": null,
-    "github": null,
-    "mainLink": null
+    "vk": null
   },
   "lookingForAJob": false,
   "lookingForAJobDescription": null,
   "fullName": "Артур Игнатов",
-  "userId": 1,
-  "photos": {
-    "small": null,
-    "large": null
-  }
+  "userId": 1
 },{
   "aboutMe": "люблю жрать",
   "contacts": {
     "facebook": null,
     "website": null,
-    "vk": null,
-    "twitter": null,
-    "instagram": null,
-    "youtube": null,
-    "github": null,
-    "mainLink": null
+    "vk": null
   },
   "lookingForAJob": false,
   "lookingForAJobDescription": null,
   "fullName": "Альф Игнатов",
-  "userId": 2,
-  "photos": {
-    "small": null,
-    "large": null
-  }
+  "userId": 2
 },{
   "aboutMe": "приветики я классный",
   "contacts": {
     "facebook": null,
     "website": null,
-    "vk": null,
-    "twitter": null,
-    "instagram": null,
-    "youtube": null,
-    "github": null,
-    "mainLink": null
+    "vk": null
   },
   "lookingForAJob": false,
   "lookingForAJobDescription": null,
   "fullName": "Чижа Игнатов",
-  "userId": 3,
-  "photos": {
-    "small": null,
-    "large": null
-  }
+  "userId": 3
 }
 ]}
-   
