@@ -2,17 +2,17 @@
    "posts": [
     {
       "id": 1,
-      "text": "Post 1",
+      "text": "Good job",
       "likesCount": "1"
     },
     {
       "id": 2,
-      "text": "Post 2",
+      "text": "Nice",
       "likesCount": "1"
     },
     {
       "id": 3,
-      "text": "Post 3",
+      "text": "Hi I`m fine",
       "likesCount": "1"
     }
   ],
@@ -40,7 +40,7 @@
       "followed": false
     },
     {
-      "name": "bbbvlaaad",
+      "name": "Soul Goodman",
       "id": 3,
       "uniqueUrlName": null,
       "photos": {
@@ -69,20 +69,20 @@
     "website": null,
     "vk": null
   },
-  "lookingForAJob": false,
+  "lookingForAJob": true,
   "lookingForAJobDescription": null,
   "fullName": "Альф Игнатов",
   "userId": 2
 },{
-  "aboutMe": "приветики я классный",
+  "aboutMe": "лучше звоните Солу",
   "contacts": {
     "facebook": null,
     "website": null,
     "vk": null
   },
-  "lookingForAJob": false,
+  "lookingForAJob": true,
   "lookingForAJobDescription": null,
-  "fullName": "Чижа Игнатов",
+  "fullName": "Сол Гудман",
   "userId": 3
 }
 ]}
